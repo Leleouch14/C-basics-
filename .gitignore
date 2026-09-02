@@ -1,0 +1,18 @@
+# Compiled object files and libraries
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+
+# Executables (Windows)
+*.exe
+
+# Executables (Linux / macOS common defaults)
+*.out
+a.out
+
+# Debug folders (VS Code / gdb)
+*.dSYM/
+.vscode/
+
