@@ -23,7 +23,7 @@ int main() {
     printf("\nyour 2d matrix\n");
     for(int r = 0; r<i; r++){
         for(int c = 0; c<j; c++){
-            printf("%d", matrix[r][c], " ");
+            printf("%d", matrix[r][c]);
         }
         printf("\n");
     }
